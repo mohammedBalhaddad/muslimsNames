@@ -235,4 +235,11 @@ $muslimNames = [
     ]
 ];
 
+
+/*
+The First version of this list was taken from http://www.firdaous.org
+
+All rights are reserved to them
+
+*/
 ?>
